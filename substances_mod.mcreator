@@ -1,0 +1,429 @@
+{
+  "mod_elements": [
+    {
+      "name": "Alcohol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alcohol",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/alcohol.json",
+          "src/main/substances_mod_resourcepack/items/alcohol.json"
+        ]
+      }
+    },
+    {
+      "name": "Alch",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alch",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/alch.json"
+        ]
+      }
+    },
+    {
+      "name": "Ciggarettes",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ciggarettes",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/ciggarettes.json",
+          "src/main/substances_mod_behaviourpack/items/ciggarettes.json"
+        ]
+      }
+    },
+    {
+      "name": "Tobaccoleaves",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tobaccoleaves",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/tobaccoleaves.json",
+          "src/main/substances_mod_behaviourpack/items/tobaccoleaves.json"
+        ]
+      }
+    },
+    {
+      "name": "Tobacco",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tobacco",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/blocks/tobacco.json",
+          "src/main/substances_mod_behaviourpack/loot_tables/blocks/substances_mod_tobacco.json"
+        ]
+      }
+    },
+    {
+      "name": "Ciggaretterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ciggaretterecipe",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/ciggaretterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Cocaine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cocaine",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/cocaine.json",
+          "src/main/substances_mod_resourcepack/items/cocaine.json"
+        ]
+      }
+    },
+    {
+      "name": "Coccaleaves",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coccaleaves",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/coccaleaves.json",
+          "src/main/substances_mod_behaviourpack/items/coccaleaves.json"
+        ]
+      }
+    },
+    {
+      "name": "Coccaplant",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coccaplant",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/blocks/coccaplant.json",
+          "src/main/substances_mod_behaviourpack/loot_tables/blocks/substances_mod_coccaplant.json"
+        ]
+      }
+    },
+    {
+      "name": "Cocain3recipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cocain_3recipe",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/cocain_3recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Blunt",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blunt",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/blunt.json",
+          "src/main/substances_mod_behaviourpack/items/blunt.json"
+        ]
+      }
+    },
+    {
+      "name": "Weedleaf",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weedleaf",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/weedleaf.json",
+          "src/main/substances_mod_resourcepack/items/weedleaf.json"
+        ]
+      }
+    },
+    {
+      "name": "Crushedweed",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crushedweed",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/crushedweed.json",
+          "src/main/substances_mod_behaviourpack/items/crushedweed.json"
+        ]
+      }
+    },
+    {
+      "name": "Hempplant",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hempplant",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/loot_tables/blocks/substances_mod_hempplant.json",
+          "src/main/substances_mod_behaviourpack/blocks/hempplant.json"
+        ]
+      }
+    },
+    {
+      "name": "Weeds",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weeds",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/weeds.json"
+        ]
+      }
+    },
+    {
+      "name": "Weedwrap",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weedwrap",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/weedwrap.json",
+          "src/main/substances_mod_behaviourpack/items/weedwrap.json"
+        ]
+      }
+    },
+    {
+      "name": "Weedwraq",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weedwraq",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/weedwraq.json"
+        ]
+      }
+    },
+    {
+      "name": "Blunts",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blunts",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/blunts.json"
+        ]
+      }
+    },
+    {
+      "name": "Lean",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lean",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/lean.json",
+          "src/main/substances_mod_resourcepack/items/lean.json"
+        ]
+      }
+    },
+    {
+      "name": "Jollyranchers",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jollyranchers",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/jollyranchers.json",
+          "src/main/substances_mod_resourcepack/items/jollyranchers.json"
+        ]
+      }
+    },
+    {
+      "name": "Medicine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medicine",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/medicine.json",
+          "src/main/substances_mod_resourcepack/items/medicine.json"
+        ]
+      }
+    },
+    {
+      "name": "Leanrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leanrecipe",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/recipes/leanrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Perc30",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "perc_30",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/perc_30.json",
+          "src/main/substances_mod_resourcepack/items/perc_30.json"
+        ]
+      }
+    },
+    {
+      "name": "Xanax",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xanax",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/xanax.json",
+          "src/main/substances_mod_behaviourpack/items/xanax.json"
+        ]
+      }
+    },
+    {
+      "name": "Vicodin",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vicodin",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/vicodin.json",
+          "src/main/substances_mod_behaviourpack/items/vicodin.json"
+        ]
+      }
+    },
+    {
+      "name": "Adderall",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adderall",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/adderall.json",
+          "src/main/substances_mod_resourcepack/items/adderall.json"
+        ]
+      }
+    },
+    {
+      "name": "Meth",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meth",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/meth.json",
+          "src/main/substances_mod_behaviourpack/items/meth.json"
+        ]
+      }
+    },
+    {
+      "name": "Acids",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acids",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_resourcepack/items/acids.json",
+          "src/main/substances_mod_behaviourpack/items/acids.json"
+        ]
+      }
+    },
+    {
+      "name": "Escatsy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escatsy",
+      "metadata": {
+        "files": [
+          "src/main/substances_mod_behaviourpack/items/escatsy.json",
+          "src/main/substances_mod_resourcepack/items/escatsy.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "tile.substances_mod:tobacco.name": "Tobacco",
+      "item.substances_mod:weedwrap.name": "Weedwrap",
+      "item.substances_mod:jollyranchers.name": "Jollyranchers",
+      "item.substances_mod:weedleaf.name": "Weed leaf",
+      "item.substances_mod:vicodin.name": "Vicodin",
+      "item.substances_mod:crushedweed.name": "Crushedweed",
+      "item.substances_mod:escatsy.name": "Escatsy",
+      "item.substances_mod:alcohol.name": "Alcohol",
+      "item.substances_mod:coccaleaves.name": "Coccaleaves",
+      "item.substances_mod:ciggarettes.name": "Ciggarettes",
+      "item.substances_mod:adderall.name": "Adderall",
+      "item.substances_mod:blunt.name": "Blunt",
+      "tile.substances_mod:hempplant.name": "Hemp plant",
+      "item.substances_mod:lean.name": "Lean",
+      "item.substances_mod:tobaccoleaves.name": "Tobaccoleaves",
+      "item.substances_mod:xanax.name": "Xanax",
+      "item.substances_mod:cocaine.name": "Cocaine",
+      "tile.substances_mod:coccaplant.name": "Coccaplant",
+      "item.substances_mod:meth.name": "Meth",
+      "item.substances_mod:perc_30.name": "Perc 3 0",
+      "item.substances_mod:medicine.name": "Medicine",
+      "item.substances_mod:acids.name": "Acids"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "mods",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "substances_mod",
+    "modName": "substances mod",
+    "version": "1.0.0",
+    "author": "MJ, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.21.x",
+    "modElementsPackage": "net.mcreator.substancesmod"
+  },
+  "mcreatorVersion": 202400452410
+}
